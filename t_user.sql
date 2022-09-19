@@ -1,0 +1,11 @@
+INSERT INTO `t_user`(`id`, `username`, `realname`, `password`, `sex`, `birthday`, `tel`, `address`, `type`, `if_valid`, `photo`) VALUES (1, 'zhangsan', '潘春尧', '123', '1', '2001-03-02', '18022394773', '江西省南昌市', '3', 1, NULL);
+INSERT INTO `t_user`(`id`, `username`, `realname`, `password`, `sex`, `birthday`, `tel`, `address`, `type`, `if_valid`, `photo`) VALUES (2, '111111', '嗯嗯嗯', '111', '1', '2022-09-19', '2222', '南昌市', '1', 1, 'fileupload/1663132574802.jpg');
+INSERT INTO `t_user`(`id`, `username`, `realname`, `password`, `sex`, `birthday`, `tel`, `address`, `type`, `if_valid`, `photo`) VALUES (3, 'dsa', '粑粑', 'dsa', '1', '2001-03-03', '21321', '河北省唐山市', '1', 1, NULL);
+INSERT INTO `t_user`(`id`, `username`, `realname`, `password`, `sex`, `birthday`, `tel`, `address`, `type`, `if_valid`, `photo`) VALUES (4, 'ss', '试', 'ss', '2', '2022-09-19', '3333', '北京市', '2', 1, NULL);
+INSERT INTO `t_user`(`id`, `username`, `realname`, `password`, `sex`, `birthday`, `tel`, `address`, `type`, `if_valid`, `photo`) VALUES (5, 'dd', '滴滴', 'dd', '2', '1111-11-11', '1111', '北京市', '1', 1, NULL);
+INSERT INTO `t_user`(`id`, `username`, `realname`, `password`, `sex`, `birthday`, `tel`, `address`, `type`, `if_valid`, `photo`) VALUES (6, 'ff', '方法', 'ff', '1', '2222-22-22', '2222', '北京市', '1', 1, NULL);
+INSERT INTO `t_user`(`id`, `username`, `realname`, `password`, `sex`, `birthday`, `tel`, `address`, `type`, `if_valid`, `photo`) VALUES (7, 'gg', '刚刚', 'gg', '2', '3333-33-33', '3333', '北京市', '1', 1, NULL);
+INSERT INTO `t_user`(`id`, `username`, `realname`, `password`, `sex`, `birthday`, `tel`, `address`, `type`, `if_valid`, `photo`) VALUES (8, 'hh', '哈哈', 'hh', '1', '4444-44-44', '4444', '北京市', '1', 1, NULL);
+INSERT INTO `t_user`(`id`, `username`, `realname`, `password`, `sex`, `birthday`, `tel`, `address`, `type`, `if_valid`, `photo`) VALUES (9, 'jj', '经济', 'jj', '2', '5555-55-55', '5555', '北京市', '1', 1, NULL);
+INSERT INTO `t_user`(`id`, `username`, `realname`, `password`, `sex`, `birthday`, `tel`, `address`, `type`, `if_valid`, `photo`) VALUES (10, 'kk', '咳咳', 'kk', '2', '6666-66-66', '6666', '河北省唐山市', '1', 1, NULL);
+INSERT INTO `t_user`(`id`, `username`, `realname`, `password`, `sex`, `birthday`, `tel`, `address`, `type`, `if_valid`, `photo`) VALUES (11, 'll', '理论', 'll', '2', '7777-77-77', '7777', '河北省唐山市', '1', 1, NULL);
